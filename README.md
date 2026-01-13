@@ -1,33 +1,28 @@
 # Verus
 
-Verus es una aplicación financiera mobile-first diseñada para Bolivia.  
-Ofrece una experiencia segura y sencilla para gestionar tus finanzas personales y explorar nuevas herramientas fintech.
+Verus es una aplicación de automatización para traders P2P.  
+Convierte los CSV de tus exchanges en métricas claras para entender tu desempeño financiero y gestionar riesgos con tus clientes.
 
 ---
 
-## ✨ Características
-- Gestión rápida y segura de transacciones.
-- Interfaz clara y amigable.
-- Disponible en Android y próximamente en iOS.
-- Diseñado para ser confiable y educativo.
+## ✨ Qué ofrece
+- Importa tus registros de operaciones desde múltiples exchanges.
+- Obtén métricas de ingresos, pérdidas y volumen de trading.
+- Identifica clientes con riesgo antes de volver a operar con ellos.
+- Visualiza tu historial financiero de forma clara y organizada.
+- Mobile-first: accede desde tu teléfono, tablet o computadora.
 
 ---
 
-## 📲 Descarga
-Próximamente en:
-- [Google Play Store](#)
-- [Apple App Store](#)
-
----
-
-## 📸 Capturas
-*(Aquí puedes añadir imágenes de la app en uso)*
+## 📲 Estado actual
+Verus está en desarrollo como MVP.  
+Próximamente disponible en Android y iOS.
 
 ---
 
 ## 📞 Contacto
-- Sitio web: [verus.app](#)
 - Email: contacto@verus.app
+- Sitio web: próximamente
 
 ---
 
